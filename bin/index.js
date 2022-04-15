@@ -9,10 +9,10 @@ const chalk = require('chalk');
 const inquirer = require('inquirer');
 const fs = require('fs');
 const templates = {
-    'template-A': {
-        url: 'https://github.com/dongtaotao/template-A',
-        downloadUrl: 'http://github.com:dongtaotao/template-A#master',
-        description: 'A模版'
+    'react-webpack': {
+        url: 'https://gitee.com/foreverheart/react-demo',
+        downloadUrl: 'https://gitee.com:foreverheart/react-demo#master',
+        description: 'react-webpack 配置项目模板'
     },
 };
 
