@@ -16,12 +16,13 @@ const templates = {
     },
     'react-vite':{
         url: 'https://gitee.com/foreverheart/react-demo',
-        downloadUrl: 'https://gitee.com:foreverheart/react-demo#master',
+        downloadUrl: 'https://gitee.com:foreverheart/react-demo#',
         description: 'react-vite3.0 配置项目模板'
     }
 };
+// -v 或者 --versions输出版本号
+program.version('1.0.0') 
 
-program.version('1.0.0') // -v 或者 --versions输出版本号
 program
     .command('init <template> <project>')
     .description('初始化项目模版')
