@@ -14,6 +14,11 @@ const templates = {
         downloadUrl: 'https://gitee.com:foreverheart/react-demo#master',
         description: 'react-webpack 配置项目模板'
     },
+    'react-vite':{
+        url: 'https://gitee.com/foreverheart/react-demo',
+        downloadUrl: 'https://gitee.com:foreverheart/react-demo#master',
+        description: 'react-vite3.0 配置项目模板'
+    }
 };
 
 program.version('1.0.0') // -v 或者 --versions输出版本号
