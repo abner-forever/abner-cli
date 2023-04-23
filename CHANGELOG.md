@@ -1,3 +1,10 @@
+## [1.0.1-beta.1](https://github.com/abner-forever/abner-cli/compare/v1.0.0...v1.0.1-beta.1) (2023-04-23)
+
+
+### Bug Fixes
+
+* ci ([0e8afa3](https://github.com/abner-forever/abner-cli/commit/0e8afa30abefae4a0b90f2e9b98b6850c5dea7cc))
+
 # 1.0.0 (2023-04-23)
 
 
